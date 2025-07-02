@@ -4,7 +4,6 @@ title: Nanahira
 date: 2023-12-10 13:35 -0600
 category: pages
 author: IssaFR
-image: https://static.wikia.nocookie.net/virtualyoutuber/images/1/10/Nanahira_model.jpg/revision/latest?cb=20200625223629
 description: what
 include: uhhhh
 ---

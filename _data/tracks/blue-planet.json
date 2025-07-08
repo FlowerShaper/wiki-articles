@@ -1,0 +1,30 @@
+{
+    "title": "Blue Planet",
+    "title_romanized": "Blue Planet",
+    "length": "2:03",
+    "bpm": "147",
+    "content": "testy test",
+    "release": {
+        "year": 2006,
+        "month": 1,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "Blue Planet",
+            "url": ""
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "Izayoi Sak"
+        }
+    ],
+    "links": [
+        {
+            "label": "Youtube",
+            "url": "https://www.youtube.com/watch?v=fth2IDIdUt0"
+        }
+    ]
+}

@@ -2,7 +2,7 @@
 layout: article
 title: Camellia
 date: 2023-12-10 13:35 -0600
-image: https://cdn.camellia.wiki/articles/camellia/camellia.png
+image: https://cdn.cametek.jp/wiki/articles/camellia/camellia.png
 description: The one and only Camellia! Here, you can find information about Camellia's background and accomplishments.
 ---
 

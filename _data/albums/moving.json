@@ -1,0 +1,51 @@
+{
+    "title": "Moving!",
+    "title_romanized": "Moving!",
+    "content": "> TODO: Add content.\n{: .caution }",
+    "covers": [
+        {
+            "name": "KCCD-008",
+            "url": "cdn://images/camellia/albums/KCCD-008.jpg"
+        }
+    ],
+    "release": {
+        "year": 2025,
+        "month": 10,
+        "day": 26
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "forbidden-pizza",
+                "mengtun-kungfu-daluanwu",
+                "fullflavor-ondo",
+                "comet-chaser-lemmon-remake",
+                "im-triethyl-citrate",
+                "mega-tskr",
+                "extra-love-at-bpm2-077",
+                "kindly-please-nanitozotanom-chan",
+                "abandoned-occult-museum-of-otherworldly-creatures",
+                "daipan-march",
+                "beni-kanzashi",
+                "moving"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Illustration",
+            "name": "まみむ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://nanahira.jp/moving/"
+        },
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/album/3gyFjb70IpCG0DpPu4I82g"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "title": "FULLFLAVOR音頭",
+    "title_romanized": "FULLFLAVOR ONDO",
+    "length": "4:06",
+    "bpm": "160-260",
+    "content": "> TODO: Add content.\n{: .caution }",
+    "release": {
+        "year": 2022,
+        "month": 11,
+        "day": 5
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/fullflavor-ondo.jpg"
+        },
+        {
+            "name": "KCCD-008",
+            "url": "cdn://images/camellia/albums/KCCD-008.jpg"
+        }
+    ],
+    "albums": [
+        "moving"
+    ],
+    "credits": [],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/4n3aW8rwrT83iZvbQzFCip"
+        },
+        {
+            "label": "Spotify (Moving!)",
+            "url": "https://open.spotify.com/track/4C6eOgUYiDqiusEKNDsycl"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=S5uUMWOsjdw"
+        }
+    ]
+}

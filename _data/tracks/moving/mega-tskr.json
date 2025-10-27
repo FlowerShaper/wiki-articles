@@ -1,0 +1,40 @@
+{
+    "title": "MEGA TSKR",
+    "title_romanized": "MEGA TSKR",
+    "length": "2:49",
+    "bpm": "",
+    "content": "> TODO: Add content.\n{: .caution }",
+    "release": {
+        "year": 2025,
+        "month": 7,
+        "day": 19
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/mega-tskr.jpg"
+        },
+        {
+            "name": "KCCD-008",
+            "url": "cdn://images/camellia/albums/KCCD-008.jpg"
+        }
+    ],
+    "albums": [
+        "moving"
+    ],
+    "credits": [],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/6zlUzPANd8PrH1afehY18j"
+        },
+        {
+            "label": "Spotify (Moving!)",
+            "url": "https://open.spotify.com/track/1scQkZnSOPnc6WJGcL0lHv"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=ODshOf0l-aY"
+        }
+    ]
+}

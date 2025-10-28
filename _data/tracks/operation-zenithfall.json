@@ -4,6 +4,7 @@
     "length": "5:55",
     "bpm": "",
     "content": "> TODO: Add content.\n{: .caution }",
+    "single": true,
     "release": {
         "year": 2024,
         "month": 12,

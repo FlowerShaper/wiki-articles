@@ -1,0 +1,26 @@
+{
+    "title": "Operation: Zenithfall",
+    "title_romanized": "Operation: Zenithfall",
+    "length": "5:55",
+    "bpm": "",
+    "content": "> TODO: Add content.\n{: .caution }",
+    "release": {
+        "year": 2024,
+        "month": 12,
+        "day": 8
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/operation-zenithfall.jpg"
+        }
+    ],
+    "albums": [],
+    "credits": [],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/5l9LLkT21xeETTUPaIZaNH"
+        }
+    ]
+}

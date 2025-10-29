@@ -1,0 +1,67 @@
+{
+    "title": "ごーいん！",
+    "title_romanized": "GOIN'!",
+    "content": "ごーいん！ is a doujin album by [かめりあ](/camellia) feat. [ななひら](#) released by the circles [かめるかめりあ](#) & [Confetto](#).\n\nIt is the fifth collaboration album between *Camellia* and *Nanahira*.",
+    "covers": [
+        {
+            "name": "KCCD-007",
+            "url": "cdn://images/camellia/albums/KCCD-007.png"
+        }
+    ],
+    "release": {
+        "year": 2019,
+        "month": 8,
+        "day": 12
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "hq-magical-energy",
+                "papaya-bass",
+                "cheesebomb",
+                "chaos-stew-darkness-inferno",
+                "super-slow-internet-san",
+                "confusion-girl-soflan-chan",
+                "when-you-say-hai-this-song-is-gonna",
+                "nani-the-fuck",
+                "to-ryo-ka",
+                "papaya-bass-long-ver",
+                "nyan-loves-you",
+                "i-dont-care-about-christmas",
+                "goin",
+                "confusion-girl-soflan-chan-long-ver",
+                "senpai-notice-me-yuce-remix",
+                "bassline-yatteru-cranky-remix"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        },
+        {
+            "role": "Illustration",
+            "name": "まみむ"
+        },
+        {
+            "role": "Design",
+            "name": "ヒトマスモドリ"
+        },
+        {
+            "role": "Mastering",
+            "name": "Studio Aintops"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://nanahira.jp/goin/"
+        },
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/album/7cV9jxnpBU40PXQ965uwVi"
+        }
+    ]
+}

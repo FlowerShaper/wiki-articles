@@ -1,0 +1,71 @@
+{
+    "title": "ふぉーす！",
+    "title_romanized": "4orce!",
+    "covers": [
+        {
+            "name": "KCCD-006",
+            "url": "cdn://images/camellia/albums/KCCD-006.png"
+        }
+    ],
+    "release": {
+        "year": 2017,
+        "month": 12,
+        "day": 29
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "origamical-sweet-love",
+                "heeartbeeat-oveerheeat",
+                "train-labyrinth-escape",
+                "ta-ti-tu-teatime",
+                "bassline-yatteru",
+                "you-make-my-life-1up-long-ver",
+                "senpai-notice-me",
+                "kansoku-eisei",
+                "internet-of-things",
+                "juujuu-yakiniku-no-hi-kara-phoenix",
+                "catch-game-of-humankind",
+                "4orce",
+                "present",
+                "origamical-sweet-love-long-ver",
+                "juujuu-yakiniku-no-hi-kara-phoenix-long-ver",
+                "lantern-under-the-lunar-lite-show-magic-remix",
+                "looking-for-a-new-adventure-4th-remix"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        },
+        {
+            "role": "Guitar, Bass, Music, Lyrics (Tr.13)",
+            "name": "つこ"
+        },
+        {
+            "role": "Illustration",
+            "name": "まあこ"
+        },
+        {
+            "role": "Design",
+            "name": "ヒトマスモドル"
+        },
+        {
+            "role": "Mastering",
+            "name": "Studio Aintops"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://confetto.chu.jp/4orce/"
+        },
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/album/2bdi0VxGrDmKnBuz7j6rEa"
+        }
+    ]
+}

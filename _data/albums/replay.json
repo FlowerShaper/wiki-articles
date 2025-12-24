@@ -1,0 +1,52 @@
+{
+  "title": "りぷれい！",
+  "title_romanized": "Replay!",
+  "covers": [{
+    "name": "KCCD-003",
+    "url": "cdn://images/camellia/albums/KCCD-003.jpg"
+  }],
+  "release": {
+    "year": 2015,
+    "month": 8,
+    "day": 16
+  },
+  "discs": [{
+    "name": "Disc 1",
+    "tracks": [
+      "conquer-the-world",
+      "pink-panik",
+      "love-strolling",
+      "lovish-your-hue-delights",
+      "scorching-candle-master-tomoshie",
+      "lantern-under-the-lunar",
+      "shutter-speed",
+      "strongest-dental-caries-constructionist",
+      "energy-drink-ffeine-chan",
+      "replay",
+      "neko-chef-neko-chip-phq-remix"
+    ]
+  }],
+  "credits": [{
+    "role": "Vocals",
+    "name": "ななひら"
+  }, {
+    "role": "Mastering",
+    "name": "吉田省吾"
+  }, {
+    "role": "Illustration",
+    "name": "まあこ"
+  }, {
+    "role": "Design",
+    "name": "ヒトマスモドル"
+  }, {
+    "role": "Compose/Arrangement (Tr. 04)",
+    "name": "DJ Genki"
+  }],
+  "links": [{
+    "label": "Website",
+    "url": "https://confetto.chu.jp/replay/"
+  }, {
+    "label": "Spotify",
+    "url": "https://open.spotify.com/album/4MCICWTU5fmWJqk33d6LlB"
+  }]
+}

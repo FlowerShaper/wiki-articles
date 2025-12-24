@@ -1,0 +1,49 @@
+{
+  "title": "ばーさす！",
+  "title_romanized": "Versus!",
+  "covers": [{
+    "name": "KCCD-001",
+    "url": "cdn://images/camellia/albums/KCCD-001.png"
+  }],
+  "release": {
+    "year": 2014,
+    "month": 8,
+    "day": 17
+  },
+  "discs": [{
+    "name": "Disc 1",
+    "tracks": [
+      "mailer-daemon-damon",
+      "stop-jumpscare-or-ill-get-mad",
+      "hail-fall",
+      "neko-chef",
+      "mathematic-ma-ma-magic",
+      "jump-over-phq-remix",
+      "rainbow",
+      "versus",
+      "all-japan-spa-lization-project",
+      "season-flies-before-i-knew-it",
+      "mathematic-ma-ma-magic-long-ver"
+    ]
+  }],
+  "credits": [{
+    "role": "Vocals",
+    "name": "ななひら"
+  }, {
+    "role": "Illustration",
+    "name": "まあこ"
+  }, {
+    "role": "Design",
+    "name": "後方一気"
+  }, {
+    "role": "Mastering",
+    "name": "吉田省吾"
+  }],
+  "links": [{
+    "label": "Website",
+    "url": "https://kc-versus.tumblr.com/"
+  }, {
+    "label": "Spotify",
+    "url": "https://open.spotify.com/album/7lJmRPWrpmKIhNhaxLVrah"
+  }]
+}

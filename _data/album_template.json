@@ -1,0 +1,27 @@
+{
+  "title": "",
+  "title_romanized": "",
+  "covers": [{
+    "url": "cdn://images/camellia/albums/",
+    "name": ""
+  }],
+  "release": {
+    "year": 1984,
+    "month": 1,
+    "day": 1
+  },
+  "discs": [{
+    "name": "Disc 1",
+    "tracks": [
+      ""
+    ]
+  }],
+  "credits": [{
+    "role": "",
+    "name": ""
+  }],
+  "links": [{
+    "label": "",
+    "url": ""
+  }]
+}

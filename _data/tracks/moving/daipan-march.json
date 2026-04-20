@@ -1,8 +1,8 @@
 {
-    "title": "むーびんぐ!",
-    "title_romanized": "Moving!",
-    "length": "4:46",
-    "bpm": "310",
+    "title": "DAIPAN MARCH",
+    "title_romanized": "DAIPAN MARCH",
+    "length": "3:39",
+    "bpm": "",
     "single": true,
     "release": {
         "year": 2025,
@@ -31,11 +31,11 @@
     "links": [
         {
             "label": "Spotify",
-            "url": "https://open.spotify.com/track/44MZetZNGwxP91Ogsjeu7d"
+            "url": "https://open.spotify.com/track/6mSA3zThyaKsk9AcKgre6u"
         },
         {
             "label": "YouTube",
-            "url": "https://www.youtube.com/watch?v=dlujGttvQkQ"
+            "url": "https://www.youtube.com/watch?v=rRwPiRvDBrc"
         }
     ]
 }

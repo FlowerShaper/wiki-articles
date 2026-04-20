@@ -1,18 +1,18 @@
 {
-    "title": "MEGA TSKR",
-    "title_romanized": "MEGA TSKR",
-    "length": "2:49",
+    "title": "わたしトリエチルシトレートレート",
+    "title_romanized": "I'm Triethyl Citrate",
+    "length": "3:31",
     "bpm": "",
     "single": true,
     "release": {
         "year": 2025,
-        "month": 7,
-        "day": 19
+        "month": 10,
+        "day": 27
     },
     "covers": [
         {
             "name": "Single",
-            "url": "cdn://images/camellia/singles/mega-tskr.jpg"
+            "url": "cdn://images/camellia/singles/im-triethyl-citrate.jpg"
         },
         {
             "name": "KCCD-008",
@@ -22,7 +22,7 @@
     "albums": [
         "moving"
     ],
-    "credits": [        
+    "credits": [
         {
             "role": "Composition",
             "name": "かめりあ"
@@ -32,12 +32,16 @@
             "name": "ななひら"
         },
         {
-            "role": "Illustration",
-            "name": "まみむ"
+            "role": "Mastering",
+            "name": "Soushi Mizuno (Studio MASS)"
         },
         {
-            "role": "MV Animation",
-            "name": "また夜に。 (しおん & てんびん (sionsakana & Tembin))"
+            "role": "Illustration",
+            "name": "てんてこ (Tenteko)"
+        },
+        {
+            "role": "MV Animator",
+            "name": "あき峯 (Akimine)"
         },
         {
             "role": "MV Production",
@@ -47,31 +51,31 @@
     "links": [
         {
             "label": "Spotify",
-            "url": "https://open.spotify.com/track/6zlUzPANd8PrH1afehY18j"
+            "url": "https://open.spotify.com/track/4VcQ2v4BUNvN849FEgyMKx"
         },
         {
             "label": "Spotify (Moving!)",
-            "url": "https://open.spotify.com/track/1scQkZnSOPnc6WJGcL0lHv"
+            "url": "https://open.spotify.com/track/0PZqcijCdsk2ASOb801s6L"
         },
         {
             "label": "YouTube",
-            "url": "https://www.youtube.com/watch?v=ODshOf0l-aY"
+            "url": "https://www.youtube.com/watch?v=PD5Ca9VtVXc"
         },
         {
             "label": "YouTube (Moving!)",
-            "url": "https://www.youtube.com/watch?v=3C0JqIEIf5w"
+            "url": "https://www.youtube.com/watch?v=xY_jmxBGk3s"
         },
         {
-            "label": "MV Animator しおん's X account",
-            "url": "https://x.com/sionsakana"
+            "label": "Mastering Engineer Soushi Mizuno's X account",
+            "url": "https://x.com/soushimizuno"
         },
         {
-            "label": "MV Animator てんびん's X account",
-            "url": "https://x.com/Tembin_3"
+            "label": "Illustrator てんてこ's X account",
+            "url": "https://x.com/tenteko_mai51"
         },
         {
-            "label": "MV Animator Team's portfolio",
-            "url": "https://matayoruni.myportfolio.com/"
+            "label": "MV Animator あき峯's X account",
+            "url": "https://x.com/akimineworks"
         },
         {
             "label": "MV Producer まみ's X account",

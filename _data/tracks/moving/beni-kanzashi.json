@@ -1,8 +1,8 @@
 {
-    "title": "むーびんぐ!",
-    "title_romanized": "Moving!",
-    "length": "4:46",
-    "bpm": "310",
+    "title": "紅簪",
+    "title_romanized": "Beni Kanzashi",
+    "length": "3:58",
+    "bpm": "",
     "single": true,
     "release": {
         "year": 2025,
@@ -31,11 +31,11 @@
     "links": [
         {
             "label": "Spotify",
-            "url": "https://open.spotify.com/track/44MZetZNGwxP91Ogsjeu7d"
+            "url": "https://open.spotify.com/track/1fciySycUzAxZp7EM5IIT4"
         },
         {
             "label": "YouTube",
-            "url": "https://www.youtube.com/watch?v=dlujGttvQkQ"
+            "url": "https://www.youtube.com/watch?v=d-g1suhqU6c"
         }
     ]
 }

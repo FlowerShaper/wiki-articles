@@ -1,9 +1,8 @@
 FULLFLAVOR ONDO initially released as a single by [かめりあ](/camellia) feat. [ななひら](#) and was later included on their album Moving!.
 
-# Lyrics
+## Lyrics
 ### (EN):
-FULLFLAVOR Ondo
-
+```
 Hey everyone at the festival site! Everyone’s favorite, FULLFLAVOR ONDO is about to begin!
 Gather around the taiko stage with everything you can find!
 
@@ -90,10 +89,9 @@ TASTE INFINITE
 Hey hey, members, mix my flavors!!
 Illegitimate d'oeuvre​ TASTE INFINITE
 Hai! (Cheers!) Soryasa (Soryasa!) FULLFLAVOR ONDO to be TASTE INFINITE
-
+```
 ### (JP, original):
-FULLFLAVOR音頭
-
+```
 祭り会場のみなさ～ん！！みんなの大好きFULLFLAVOR音頭が始まるよ！
 ありとあらゆる全てを持ってやぐらの周りに集まって～！
 
@@ -176,3 +174,4 @@ Dopeな（Dopeな！）音頭で（音頭で！）  ジャンルを飛び越え 
 FULLFLAVOR音頭で 味∞限∞大！！（はいっ）
 味∞限∞大！！（はいっ）
 味∞限∞大！！（いぇーい！！！）
+```

@@ -34,6 +34,18 @@
         {
             "role": "Illustration",
             "name": "まみむ"
+        },
+        {
+            "role": "Jacket Design",
+            "name": "Hitomasu Modoru"
+        },
+        {
+            "role": "MV Animator",
+            "name": "Miyazawa Esora"
+        },
+        {
+            "role": "MV Animator",
+            "name": "Gene"
         }
     ],
     "links": [
@@ -48,6 +60,38 @@
         {
             "label": "YouTube",
             "url": "https://www.youtube.com/watch?v=S5uUMWOsjdw"
+        },
+        {
+            "label": "YouTube (Moving!)",
+            "url": "https://www.youtube.com/watch?v=QtpZvlpiCNE"
+        },
+        {
+            "label": "Illustrator まみむ's profcard",
+            "url": "https://profcard.info/u/FOZpPQ5K47RQmCaOAGdD7WykHMd2"
+        },
+                {
+            "label": "Illustrator まみむ's X account",
+            "url": "https://x.com/m_aiu"
+        },
+                {
+            "label": "Illustrator まみむ's Pixiv",
+            "url": "https://www.pixiv.net/users/54348"
+        },
+        {
+            "label": "Jacket Designer Hitomasu's X account",
+            "url": "https://x.com/00unit"
+        },
+        {
+            "label": "MV Animator Miyazawa's Portfolio",
+            "url": "https://miyazawaesora.myportfolio.com/"            
+        },
+        {
+            "label": "MV Animator Gene's X account",
+            "url": "https://x.com/gene_xx_"
+        },
+        {
+            "label": "MV Animator Gene's Tumblr",
+            "url": "https://gene-nakata.tumblr.com"
         }
     ]
 }

@@ -1,9 +1,10 @@
 MEGA TSKR initially released as a single by [かめりあ](/camellia) feat. [ななひら](#) and was later included on their album Moving!.
 
-# Trivia
+## Trivia
 - ""TSKR" originates from the Japanese word 助かる (tasukaru), which means "saved" or "that helps a lot." This abbreviation was first popularized by overseas internet users, derived from the romaji spelling "TaSuKaRu", taking its initial letters to form "TSKR."" - gdblazeboi2532 under the MEGA TSKR YouTube comments.
 
-# Lyrics
+## Lyrics
+```
 （誰か助けてー！！）
 急行 参上 救助 救助 救助
 急行 参上 救助 救助 救助
@@ -73,3 +74,4 @@ Day & Night わたし色にペイント
 もう いっちょ救ってやりますか。
 
 お呼びですか MEGA TSKR
+```

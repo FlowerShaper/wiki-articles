@@ -22,7 +22,28 @@
     "albums": [
         "moving"
     ],
-    "credits": [],
+    "credits": [        
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        },
+        {
+            "role": "Illustration",
+            "name": "まみむ"
+        },
+        {
+            "role": "MV Animation",
+            "name": "また夜に。 (しおん & てんびん (sionsakana & Tembin))"
+        },
+        {
+            "role": "MV Production",
+            "name": "そのかわ まみ (Mami Sonokawa)"
+        }
+    ],
     "links": [
         {
             "label": "Spotify",
@@ -35,6 +56,26 @@
         {
             "label": "YouTube",
             "url": "https://www.youtube.com/watch?v=ODshOf0l-aY"
+        },
+        {
+            "label": "MV Animator しおん's X account",
+            "url": "https://x.com/sionsakana"
+        },
+        {
+            "label": "MV Animator てんびん's X account",
+            "url": "https://x.com/Tembin_3"
+        },
+        {
+            "label": "MV Animator Team's portfolio",
+            "url": "https://matayoruni.myportfolio.com/"
+        },
+        {
+            "label": "MV Producer まみ's X account",
+            "url": "https://x.com/mamitopic"
+        },
+        {
+            "label": "MV Producer まみ's portfolio",
+            "url": "https://mamitopic.myportfolio.com/"
         }
     ]
 }

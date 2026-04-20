@@ -1,0 +1,41 @@
+{
+    "title": "むーびんぐ!",
+    "title_romanized": "Moving!",
+    "length": "4:46",
+    "bpm": "310",
+    "single": true,
+    "release": {
+        "year": 2025,
+        "month": 10,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "KCCD-008",
+            "url": "cdn://images/camellia/albums/KCCD-008.jpg"
+        }
+    ],
+    "albums": [
+        "moving"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/44MZetZNGwxP91Ogsjeu7d?si=7db0bff3df514af0"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=dlujGttvQkQ"
+        }
+    ]
+}

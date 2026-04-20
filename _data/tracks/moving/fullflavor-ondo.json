@@ -22,7 +22,20 @@
     "albums": [
         "moving"
     ],
-    "credits": [],
+    "credits": [        
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        },
+        {
+            "role": "Illustration",
+            "name": "まみむ"
+        }
+    ],
     "links": [
         {
             "label": "Spotify",

@@ -1,0 +1,9 @@
+Þule (or Thule) is an original song for [osu!'s Taiko World Cup 2026](https://osu.ppy.sh/wiki/en/Tournaments/TWC/2026) (TWC2026) Finals Tiebreaker. The beatmap comes complete with a music video depicting a lonesome robot girl exploring a ruined cityscape hoping to find a better future for herself in this far-away land called Thule. The text below shown by the TWC2026 beatmap showcase twitch stream gives a feel for the intended atmosphere:
+
+"Beyond the point where pushing forward or climbing higher is no longer possible, there is a place where only falling is allowed.
+
+In a world where broken fairy tales keep searching for a place to break even further, ÞULE was the only exit that led somewhere else.
+
+This song stands as the bottom, a destination reached only by those who endure to the very end..."
+
+The song is inspired by a semi-mythical island far from the north of Ancient Greece of the same name, [Thule](https://en.wikipedia.org/wiki/Thule), first written about by explorer Pytheas of Massalia (now Marseille, France). It was likely based on some real land he writes he discovered in his now lost work "On The Ocean" though his descriptions survived in the works of later authors that were unconvinced of his stories. Possible lands include Iceland, Norway, the Shetland Islands or the Faroe Islands. It later took on a metaphorical meaning for any distant place "beyond the known world". It is said by a few authors that when the mid-summer comes there are no nights, only daytime, and when the mid-winter there is never any Sun with each period lasting 6 months of only nights or only days.

@@ -1,0 +1,55 @@
+{
+    "title": "Tera I/O",
+    "covers": [
+        {
+            "name": "CTCD-020",
+            "url": "cdn://images/camellia/albums/CTCD-020.jpg"
+        }
+    ],
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "body-floating",
+                "input-this-to-your-spine",
+                "dance-with-silence",
+                "compute-it",
+                "fly-wit-me",
+                "terabyte-connection",
+                "tera-i/o",
+                "million-pp",
+                "flamewall",
+                "bad-access-(from-a-moe-maid)"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition & Illustration",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "YouTube premiere",
+            "url": "https://www.youtube.com/watch?v=M3npCLBbg-s"
+        },
+        {
+            "label": "YouTube playlist",
+            "url": "https://www.youtube.com/watch?v=2ya4KTyPFbc&list=PLaN19gIKi5Zreyq82mCpE7eI26ORKuqEm"
+        },
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/album/5EN6xmUJMeavkDzC1Pz1VJ"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/tera-i-o"
+        }
+    ]
+}

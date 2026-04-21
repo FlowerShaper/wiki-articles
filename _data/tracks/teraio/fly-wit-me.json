@@ -1,0 +1,35 @@
+{
+    "title": "Fly Wit Me",
+    "length": "4:42",
+    "bpm": "174",
+    "release": {
+        "year": 2020,
+        "month": 9,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "CTCD-020",
+            "url": "cdn://images/camellia/albums/CTCD-020.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/6gqxj5vXFgcdD2ESyi0V2Y"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=bi1rkTy3jbg"
+        }
+    ]
+}

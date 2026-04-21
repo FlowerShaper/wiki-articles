@@ -1,0 +1,35 @@
+{
+    "title": "1nput This 2 Y0ur Spine",
+    "length": "5:18",
+    "bpm": "160",
+    "release": {
+        "year": 2020,
+        "month": 9,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "CTCD-020",
+            "url": "cdn://images/camellia/albums/CTCD-020.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/5QvnkG3CTE15m5KXnq2R8s"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=anXtglsWCtQ"
+        }
+    ]
+}

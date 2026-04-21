@@ -90,6 +90,7 @@ Hey hey, members, mix my flavors!!
 Illegitimate d'oeuvre​ TASTE INFINITE
 Hai! (Cheers!) Soryasa (Soryasa!) FULLFLAVOR ONDO to be TASTE INFINITE
 ```
+
 ### (JP, original):
 ```
 祭り会場のみなさ～ん！！みんなの大好きFULLFLAVOR音頭が始まるよ！

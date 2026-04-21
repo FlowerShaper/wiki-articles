@@ -3,13 +3,13 @@
     "covers": [
         {
             "name": "CTCD-020",
-            "url": "cdn://images/camellia/albums/CTCD-020.jpg"
+            "url": "cdn://images/camellia/albums/CTCD-020.png"
         }
     ],
     "release": {
-        "year": 2021,
-        "month": 7,
-        "day": 11
+        "year": 2020,
+        "month": 9,
+        "day": 27
     },
     "discs": [
         {
@@ -21,10 +21,10 @@
                 "compute-it",
                 "fly-wit-me",
                 "terabyte-connection",
-                "tera-i/o",
+                "teraio",
                 "million-pp",
                 "flamewall",
-                "bad-access-(from-a-moe-maid)"
+                "bad-access"
             ]
         }
     ],

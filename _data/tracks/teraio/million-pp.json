@@ -1,7 +1,7 @@
 {
-    "title": "Fly Wit Me",
-    "length": "4:42",
-    "bpm": "174",
+    "title": "M1LLI0N PP",
+    "length": "7:10",
+    "bpm": "120-234",
     "release": {
         "year": 2020,
         "month": 9,
@@ -14,7 +14,8 @@
         }
     ],
     "albums": [
-        "teraio"
+        "teraio",
+        "rex"
     ],
     "credits": [
         {
@@ -25,11 +26,11 @@
     "links": [
         {
             "label": "Spotify",
-            "url": "https://open.spotify.com/track/6gqxj5vXFgcdD2ESyi0V2Y"
+            "url": "https://open.spotify.com/track/3AtQwAbQ9c9KfSFBRah5i8"
         },
         {
             "label": "YouTube",
-            "url": "https://www.youtube.com/watch?v=bi1rkTy3jbg"
+            "url": "https://www.youtube.com/watch?v=pSDZveD8ZGQ"
         }
     ]
 }

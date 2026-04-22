@@ -1,0 +1,72 @@
+{
+    "title": "Chimera Dragons",
+    "title_romanized": "",
+    "content": "_Chimera Dragons_ is an album by [かめりあ](/camellia) (Camellia) released on 2025-08-17 by the circle [かめるかめりあ](#).",
+    "covers": [
+        {
+            "url": "cdn://images/camellia/albums/CTCD-024.jpg",
+            "name": "CTCD-024"
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Illustration",
+            "name": "Hyde"
+        },
+        {
+            "role": "Graphic Design",
+            "name": "Shota Kajimura"
+        }
+    ],
+    "links": [
+        {
+            "url": "https://cametek.jp/chimeradragons/",
+            "label": "Website"
+        },
+        {
+            "url": "https://cametek.bandcamp.com/album/chimera-dragons",
+            "label": "Bandcamp"
+        },
+        {
+            "url": "https://open.spotify.com/album/7jgYjeUYn2gTYyllCZ7AWG",
+            "label": "Spotify"
+        },
+        {
+            "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHI3wOsBa8UeSA77QmeJ5Qte0j_I-LKhs",
+            "label": "YouTube Music"
+        }
+    ],
+    "release": {
+        "year": 2025,
+        "month": 8,
+        "day": 17
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "nagalokah-prologue",
+                "blackfire-backfire",
+                "let-me-cook",
+                "backbeat-revenge",
+                "mambo-combo",
+                "bite-me-more-pls",
+                "quomodocunquize",
+                "chimera-dragons",
+                "umbral",
+                "xyberr-dracoo",
+                "glitch-out",
+                "ghost-girl-cannot-be-killed",
+                "kikai-no-tsubasa",
+                "deep-blue-starfall-vertigo",
+                "hottest-take-machine",
+                "magical-very-magical-world",
+                "nagalila-epilogue-legend-of-dragons"
+            ]
+        }
+    ]
+}

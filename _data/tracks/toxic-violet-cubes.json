@@ -1,0 +1,40 @@
+{
+    "title": "Toxic Violet Cubes",
+    "length": "4:50",
+    "bpm": "265",
+    "single": true,
+    "release": {
+        "year": 2021,
+        "month": 8,
+        "day": 1
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/toxic-violet-cubes.jpg"
+        },
+        {
+            "name": "CTCD-023",
+            "url": "cdn://images/camellia/albums/CTCD-023.jpg"
+        }
+    ],
+    "albums": [
+        "rex"
+    ],
+    "credits": [
+        {
+            "role": "Composition & Illustration",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=yLOwX2uDJ34"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/track/toxic-violet-cubes-from-bswc2021-grand-finals"
+        }
+    ]
+}

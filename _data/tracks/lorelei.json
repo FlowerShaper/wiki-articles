@@ -1,0 +1,44 @@
+{
+    "title": "LORELEI",
+    "length": "3:24",
+    "bpm": "215",
+    "single": true,
+    "release": {
+        "year": 2023,
+        "month": 2,
+        "day": 15
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/lorelei.jpg"
+        },
+        {
+            "name": "CTCD-023",
+            "url": "cdn://images/camellia/albums/CTCD-023.jpg"
+        }
+    ],
+    "albums": [
+        "rex"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/7cEZld0rEQoHv1wcdnoOj1"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=bef23j792eE"
+        },
+        {
+            "label": "AWC 2023 Finals",
+            "url": "https://www.youtube.com/watch?v=cQ7zp17kXx0"
+        }
+    ]
+}

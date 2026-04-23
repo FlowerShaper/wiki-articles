@@ -1,0 +1,49 @@
+{
+    "title": "ΩΩPARTS",
+    "length": "6:51",
+    "bpm": "140-230",
+    "single": true,
+    "release": {
+        "year": 2020,
+        "month": 11,
+        "day": 29
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/ooparts.jpg"
+        },
+        {
+            "name": "CTCD-021-022",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        },
+        {
+            "name": "CTCD-023",
+            "url": "cdn://images/camellia/albums/CTCD-023.jpg"
+        }
+    ],
+    "albums": [
+        "uufo",
+        "rex"
+    ],
+    "credits": [
+        {
+            "role": "Composition & Illustration",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/5l9LLkT21xeETTUPaIZaNH"
+        },
+        {
+            "label": "Spotify (U.U.F.O.)",
+            "url": "https://open.spotify.com/track/1WxNshLVL7MbLWnKdTcCUs"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=lc4nTM6M9KY"
+        }
+    ]
+}

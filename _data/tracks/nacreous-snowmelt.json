@@ -1,16 +1,17 @@
 {
-    "title": "M1LLI0N PP",
-    "length": "7:10",
-    "bpm": "120-234",
+    "title": "Nacreous Snowmelt",
+    "length": "7:20",
+    "bpm": "",
+    "single": true,
     "release": {
-        "year": 2020,
-        "month": 9,
-        "day": 27
+        "year": 2019,
+        "month": 10,
+        "day": 31
     },
     "covers": [
         {
-            "name": "CTCD-020",
-            "url": "cdn://images/camellia/albums/CTCD-020.png"
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/nacreous-snowmelt.png"
         },
         {
             "name": "CTCD-023",
@@ -18,7 +19,6 @@
         }
     ],
     "albums": [
-        "teraio",
         "rex"
     ],
     "credits": [
@@ -30,11 +30,11 @@
     "links": [
         {
             "label": "Spotify",
-            "url": "https://open.spotify.com/track/3AtQwAbQ9c9KfSFBRah5i8"
+            "url": "https://open.spotify.com/track/5qFqS2zrlkc3ojTdHnJm7m"
         },
         {
             "label": "YouTube",
-            "url": "https://www.youtube.com/watch?v=pSDZveD8ZGQ"
+            "url": "https://www.youtube.com/watch?v=OU7YFePj3jM"
         }
     ]
 }

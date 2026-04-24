@@ -38,12 +38,16 @@
     ],
     "credits": [
         {
-            "role": "Vocals",
-            "name": "ななひら"
+            "role": "Composition",
+            "name": "かめりあ (Tr.01-17), つこ (Tr.13)"
         },
         {
-            "role": "Guitar, Bass, Music, Lyrics (Tr.13)",
-            "name": "つこ"
+            "role": "Lyrics",
+            "name": "かめりあ (Tr.01-17), つこ (Tr.13)"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら"
         },
         {
             "role": "Illustration",
@@ -56,6 +60,10 @@
         {
             "role": "Mastering",
             "name": "Studio Aintops"
+        },
+        {
+            "role": "Remix",
+            "name": "Lite Show Magic (Tr.16), The 4th (Tr.17)"
         }
     ],
     "links": [

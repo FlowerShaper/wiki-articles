@@ -1,0 +1,40 @@
+{
+    "title": "紅簪",
+    "title_romanized": "Beni Kanzashi",
+    "length": "3:58",
+    "bpm": "",
+    "release": {
+        "year": 2025,
+        "month": 10,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "KCCD-008",
+            "url": "cdn://images/camellia/albums/KCCD-008.jpg"
+        }
+    ],
+    "albums": [
+        "moving"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/1fciySycUzAxZp7EM5IIT4"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=d-g1suhqU6c"
+        }
+    ]
+}

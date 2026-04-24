@@ -1,11 +1,10 @@
 {
     "title": "ふぉーす！",
-    "title_romanized": "4ORCE!",
-    "content": "*ふぉーす！* is a doujin album by [かめりあ](/camellia) (Camellia) feat. [ななひら](#) (Nanahira) released on 2017-12-29 (Comiket 93) by the circles [かめるかめりあ](#) & [Confetto](#). It is the fourth collaboration album between *Camellia* and *Nanahira*.",
+    "title_romanized": "4orce!",
     "covers": [
         {
             "name": "KCCD-006",
-            "url": "#"
+            "url": "cdn://images/camellia/albums/KCCD-006.png"
         }
     ],
     "release": {
@@ -19,21 +18,21 @@
             "tracks": [
                 "origamical-sweet-love",
                 "heeartbeeat-oveerheeat",
-                "train-labyrinth-escape-from-super-shinjuku-sta",
+                "train-labyrinth-escape",
                 "ta-ti-tu-teatime",
-                "can-i-friend-you-on-bassbook-lol",
+                "bassline-yatteru",
                 "you-make-my-life-1up-long-ver",
                 "senpai-notice-me",
                 "kansoku-eisei",
-                "mononon-the-ito-internet-of-things-goddess",
-                "pshhht-the-phoenix-rises-from-the-flames-yakiniku-of-rebirth",
-                "catch-game-battle-of-humankind-vs-ball-throwing-robot-tamachan",
+                "internet-of-things",
+                "juujuu-yakiniku-no-hi-kara-phoenix",
+                "catch-game-of-humankind",
                 "4orce",
                 "present",
                 "origamical-sweet-love-long-ver",
-                "pshhht-the-phoenix-rises-from-the-flames-yakiniku-of-rebirth-true-ver",
-                "tsukidouru-remix",
-                "looking-for-a-new-adventure-remix"
+                "juujuu-yakiniku-no-hi-kara-phoenix-long-ver",
+                "lantern-under-the-lunar-lite-show-magic-remix",
+                "looking-for-a-new-adventure-4th-remix"
             ]
         }
     ],
@@ -47,10 +46,6 @@
             "name": "かめりあ (Tr.01-17), つこ (Tr.13)"
         },
         {
-            "role": "Guitar & Bass",
-            "name": "つこ (Tr.13)"
-        },
-        {
             "role": "Vocals",
             "name": "ななひら"
         },
@@ -60,7 +55,7 @@
         },
         {
             "role": "Design",
-            "name": "ヒトマスモドル "
+            "name": "ヒトマスモドル"
         },
         {
             "role": "Mastering",
@@ -75,6 +70,10 @@
         {
             "label": "Website",
             "url": "https://confetto.chu.jp/4orce/"
+        },
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/album/2bdi0VxGrDmKnBuz7j6rEa"
         }
     ]
 }

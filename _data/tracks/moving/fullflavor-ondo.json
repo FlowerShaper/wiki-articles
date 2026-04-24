@@ -1,0 +1,93 @@
+{
+    "title": "FULLFLAVOR音頭",
+    "title_romanized": "FULLFLAVOR ONDO",
+    "length": "4:06",
+    "bpm": "160-260",
+    "single": true,
+    "release": {
+        "year": 2022,
+        "month": 11,
+        "day": 5
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/fullflavor-ondo.jpg"
+        },
+        {
+            "name": "KCCD-008",
+            "url": "cdn://images/camellia/albums/KCCD-008.jpg"
+        }
+    ],
+    "albums": [
+        "moving"
+    ],
+    "credits": [        
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        },
+        {
+            "role": "Illustration",
+            "name": "まみむ (Mamimu)"
+        },
+        {
+            "role": "Jacket Design",
+            "name": "Hitomasu Modoru"
+        },
+        {
+            "role": "MV Animation",
+            "name": "Miyazawa Esora, Gene"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/4n3aW8rwrT83iZvbQzFCip"
+        },
+        {
+            "label": "Spotify (Moving!)",
+            "url": "https://open.spotify.com/track/4C6eOgUYiDqiusEKNDsycl"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=S5uUMWOsjdw"
+        },
+        {
+            "label": "YouTube (Moving!)",
+            "url": "https://www.youtube.com/watch?v=QtpZvlpiCNE"
+        },
+        {
+            "label": "Illustrator まみむ's profcard",
+            "url": "https://profcard.info/u/FOZpPQ5K47RQmCaOAGdD7WykHMd2"
+        },
+                {
+            "label": "Illustrator まみむ's X account",
+            "url": "https://x.com/m_aiu"
+        },
+                {
+            "label": "Illustrator まみむ's Pixiv",
+            "url": "https://www.pixiv.net/users/54348"
+        },
+        {
+            "label": "Jacket Designer Hitomasu's X account",
+            "url": "https://x.com/00unit"
+        },
+        {
+            "label": "MV Animator Miyazawa's Portfolio",
+            "url": "https://miyazawaesora.myportfolio.com/"            
+        },
+        {
+            "label": "MV Animator Gene's X account",
+            "url": "https://x.com/gene_xx_"
+        },
+        {
+            "label": "MV Animator Gene's Tumblr",
+            "url": "https://gene-nakata.tumblr.com"
+        }
+    ]
+}

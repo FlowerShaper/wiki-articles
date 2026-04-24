@@ -1,0 +1,35 @@
+{
+    "title": "Dance With Silence",
+    "length": "4:50",
+    "bpm": "128",
+    "release": {
+        "year": 2020,
+        "month": 9,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "CTCD-020",
+            "url": "cdn://images/camellia/albums/CTCD-020.png"
+        }
+    ],
+    "albums": [
+        "teraio"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/3X7snymG4TzxNT1Ag0JVNR"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=ounWMVmQs0w"
+        }
+    ]
+}

@@ -1,11 +1,10 @@
 {
     "title": "ごーいん！",
     "title_romanized": "GOIN'!",
-    "content": "*ごーいん！* is a doujin album by [かめりあ](/camellia) (Camellia) feat. [ななひら](#) (Nanahira) released on 2019-08-12 (Comiket 96) by the circles [かめるかめりあ](#) & [Confetto](#). It is the fifth collaboration album between *Camellia* and *Nanahira*.",
     "covers": [
         {
             "name": "KCCD-007",
-            "url": "#"
+            "url": "cdn://images/camellia/albums/KCCD-007.png"
         }
     ],
     "release": {
@@ -17,38 +16,26 @@
         {
             "name": "Disc 1",
             "tracks": [
-                "kouonshitsu-maryoku-energy-de-geki-yaba-saikyou-onshitsu-magical-audio-number-one-mp4-128kbps",
-                "papayapa-bass",
-                "cheese-bakudan",
-                "yaminabe-darkness-inferno-kourin-niyo-waga-tamashii",
-                "internet-ga-osoi-san",
-                "konran-shoujo-soflan-chan",
-                "hai-tte-ittara-jouki-wo-isshite-hayaku-nare-kyoku",
+                "hq-magical-energy",
+                "papaya-bass",
+                "cheesebomb",
+                "chaos-stew-darkness-inferno",
+                "super-slow-internet-san",
+                "confusion-girl-soflan-chan",
+                "when-you-say-hai-this-song-is-gonna",
                 "nani-the-fuck",
-                "toureika",
-                "papayapa-bass-long-ver",
+                "to-ryo-ka",
+                "papaya-bass-long-ver",
                 "nyan-loves-you",
-                "christmas-nante-kyoumi-nai-kedo",
+                "i-dont-care-about-christmas",
                 "goin",
-                "konran-shoujo-soflan-chan-long-ver",
-                "senpai-notice-me-remix",
-                "baseline-yatteru-warai-remix"
+                "confusion-girl-soflan-chan-long-ver",
+                "senpai-notice-me-yuce-remix",
+                "bassline-yatteru-cranky-remix"
             ]
         }
     ],
     "credits": [
-        {
-            "role": "Composition",
-            "name": "かめりあ (Tr.01-17), つこ (Tr.13)"
-        },
-        {
-            "role": "Lyrics",
-            "name": "かめりあ (Tr.01-17), つこ (Tr.13)"
-        },
-        {
-            "role": "Guitar & Bass",
-            "name": "つこ (Tr.13)"
-        },
         {
             "role": "Vocals",
             "name": "ななひら"
@@ -64,16 +51,16 @@
         {
             "role": "Mastering",
             "name": "Studio Aintops"
-        },
-        {
-            "role": "Remix",
-            "name": "YUC'e (Tr.15), Cranky (Tr.16)"
         }
     ],
     "links": [
         {
             "label": "Website",
-            "url": "https://confetto.chu.jp/4orce/"
+            "url": "https://nanahira.jp/goin/"
+        },
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/album/7cV9jxnpBU40PXQ965uwVi"
         }
     ]
 }

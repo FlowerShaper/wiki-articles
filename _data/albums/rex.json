@@ -1,0 +1,76 @@
+{
+    "title": "REX",
+    "covers": [
+        {
+            "name": "CTCD-023",
+            "url": "cdn://images/camellia/albums/CTCD-023.jpg"
+        }
+    ],
+    "release": {
+        "year": 2020,
+        "month": 10,
+        "day": 27
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "ooparts",
+                "tremendous",
+                "parallel-universe-shifter",
+                "toxic-violet-cubes",
+                "antineutrino-witchcraft",
+                "lorelei",
+                "million-pp",
+                "nacreous-snowmelt",
+                "rex",
+                "enumaelis"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Illustration",
+            "name": "そちら(Sochira)"
+        },
+        {
+            "role": "Jacket/CD Design",
+            "name": "Shota Kajimura"
+        }
+
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/REX/"
+        },
+        {
+            "label": "YouTube premiere",
+            "url": "https://www.youtube.com/watch?v=lYC7wcESzNk"
+        },
+        {
+            "label": "YouTube playlist",
+            "url": "https://youtube.com/playlist?list=PLaN19gIKi5Zp2sK5jeaHgJ823ANa4NcB4&si=VgcPVtTdWzYj1rGg"
+        },
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/album/5EN6xmUJMeavkDzC1Pz1VJ"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/rex"
+        },
+        {
+            "label": "Illustrator そちら's fanme",
+            "url": "https://fanme.link/@Sochioo"
+        },
+        {
+            "label": "Shota Kajimura's X account",
+            "url": "https://x.com/stkjmr"
+        }
+    ]
+}

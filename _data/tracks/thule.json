@@ -1,0 +1,154 @@
+{
+    "title": "ÞULE (Thule)",
+    "length": "5:43",
+    "bpm": "300",
+    "single": true,
+    "release": {
+        "year": 2026,
+        "month": 4,
+        "day": 19
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/thule.jpg"
+        }
+    ],
+    "albums": [],
+    "credits": [        
+        {
+            "role": "Composition & Vocals",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Illustration",
+            "name": "naraicat, -pineapple-, Panthullu, Arushii"
+        },
+        {
+            "role": "Graphics Design",
+            "name": "mocha, mochasan_, AlexDunk"
+        },
+        {
+            "role": "Storyboard",
+            "name": "Mune, Initial D, Iyouka"
+        },
+        {
+            "role": "Video",
+            "name": "Polytetral, sugosugiii, TheFunk"
+        },
+        {
+            "role": "Design Coordination",
+            "name": "Sakura006"
+        },
+        {
+            "role": "Design Quality Assurance",
+            "name": "naraicat, -pineapple-, mochasan_, sugosugiii, TheFunk, Zeth, Mune, Noffy"
+        },
+        {
+            "role": "Lyrics Translation",
+            "name": "-mint-"
+        },
+        {
+            "name": "Mapping",
+            "role": "Genjuro, Zetera, Alchyr, roufou"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/37njVyj9fGxpKhU0OfeafV"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=SvAJvV0HEvE"
+        },
+        {
+            "label": "YouTube (osu! MV)",
+            "url": "https://www.youtube.com/watch?v=YGdz1FWbBes"
+        },
+        {
+            "label": "naraicat's osu!",
+            "url": "https://osu.ppy.sh/users/6419788"
+        },
+        {
+            "label": "-pineapple-'s osu!",
+            "url": "https://osu.ppy.sh/users/11523326"
+        },
+        {
+            "label": "Panthullu's osu!",
+            "url": "https://osu.ppy.sh/users/12580298"
+        },
+        {
+            "label": "Arushii's osu!",
+            "url": "https://osu.ppy.sh/users/15664628"
+        },
+        {
+            "label": "mocha's osu!",
+            "url": "https://osu.ppy.sh/users/14499702"
+        },
+        {
+            "label": "mochasan_'s osu!",
+            "url": "https://osu.ppy.sh/users/23804364"
+        },
+        {
+            "label": "AlexDunk's osu!",
+            "url": "https://osu.ppy.sh/users/9194799"
+        },
+        {
+            "label": "Mune's osu!",
+            "url": "https://osu.ppy.sh/users/8500334"
+        },
+        {
+            "label": "Initial D's osu!",
+            "url": "https://osu.ppy.sh/users/8382535"
+        },
+        {
+            "label": "Iyouka's osu!",
+            "url": "https://osu.ppy.sh/users/7138499"
+        },
+        {
+            "label": "Polytetral's osu!",
+            "url": "https://osu.ppy.sh/users/8612061"
+        },
+        {
+            "label": "sugosugiii's osu!",
+            "url": "https://osu.ppy.sh/users/15118952"
+        },
+        {
+            "label": "TheFunk's osu!",
+            "url": "https://osu.ppy.sh/users/13981991"
+        },
+        {
+            "label": "Sakura006's osu!",
+            "url": "https://osu.ppy.sh/users/10365024"
+        },
+        {
+            "label": "Zeth's osu!",
+            "url": "https://osu.ppy.sh/users/9912966"
+        },
+        {
+            "label": "Noffy's osu!",
+            "url": "https://osu.ppy.sh/users/1541323"
+        },
+        {
+            "label": "-mint-'s osu!",
+            "url": "https://osu.ppy.sh/users/8976576"
+        },
+        {
+            "label": "Genjuro's osu!",
+            "url": "https://osu.ppy.sh/users/3196091"
+        },
+        {
+            "label": "Zetera's osu!",
+            "url": "https://osu.ppy.sh/users/587737"
+        },
+        {
+            "label": "Alchyr's osu!",
+            "url": "https://osu.ppy.sh/users/4993032"
+        },
+        {
+            "label": "roufou's osu!",
+            "url": "https://osu.ppy.sh/users/1109122"
+        }
+    ]
+}

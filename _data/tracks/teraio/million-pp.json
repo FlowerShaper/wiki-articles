@@ -1,0 +1,40 @@
+{
+    "title": "M1LLI0N PP",
+    "length": "7:10",
+    "bpm": "120-234",
+    "release": {
+        "year": 2020,
+        "month": 9,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "CTCD-020",
+            "url": "cdn://images/camellia/albums/CTCD-020.png"
+        },
+        {
+            "name": "CTCD-023",
+            "url": "cdn://images/camellia/albums/CTCD-023.jpg"
+        }
+    ],
+    "albums": [
+        "teraio",
+        "rex"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/3AtQwAbQ9c9KfSFBRah5i8"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=pSDZveD8ZGQ"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "すりーぷ！",
+  "title_romanized": "Sleep!",
+  "covers": [{
+    "url": "cdn://images/camellia/albums/KCCD-004.png",
+    "name": "KCCD-004"
+  }],
+  "release": {
+    "year": 2016,
+    "month": 8,
+    "day": 14
+  },
+  "discs": [{
+    "name": "Disc 1",
+    "tracks": [
+      "artificial-intelligence-alpha-go",
+      "animal-land",
+      "honey-trap",
+      "your-voices-are",
+      "escapism-theory",
+      "sleep",
+      "noob-whenever-pro-otaku-forever-internet-forever",
+      "right-and-left-in-charset",
+      "looking-for-a-new-adventure",
+      "flying-out-to-the-sky",
+      "shutter-speed-phq-remix",
+      "rainbow-plight-remix"
+    ]
+  }],
+  "credits": [{
+    "role": "Vocals",
+    "name": "ななひら"
+  }, {
+    "role": "Guitar, Bass (Tr. 4 & 5)",
+    "name": "つこ"
+  }, {
+    "role": "Mastering",
+    "name": "Studio Aintops"
+  }, {
+    "role": "Illustration",
+    "name": "まあこ"
+  }, {
+    "role": "Design",
+    "name": "ヒトマスモドル"
+  }],
+  "links": [{
+    "label": "Website",
+    "url": "https://confetto.chu.jp/3leep/"
+  }, {
+    "label": "Spotify",
+    "url": "https://open.spotify.com/album/0EeYibRqW14lPOeSpGQxou"
+  }]
+}

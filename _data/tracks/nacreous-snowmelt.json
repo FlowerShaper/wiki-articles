@@ -1,0 +1,40 @@
+{
+    "title": "Nacreous Snowmelt",
+    "length": "7:20",
+    "bpm": "",
+    "single": true,
+    "release": {
+        "year": 2019,
+        "month": 10,
+        "day": 31
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/nacreous-snowmelt.png"
+        },
+        {
+            "name": "CTCD-023",
+            "url": "cdn://images/camellia/albums/CTCD-023.jpg"
+        }
+    ],
+    "albums": [
+        "rex"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/5qFqS2zrlkc3ojTdHnJm7m"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=OU7YFePj3jM"
+        }
+    ]
+}

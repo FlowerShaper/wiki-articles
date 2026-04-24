@@ -1,0 +1,64 @@
+{
+    "title": "ENÛMA∇ELIŠ ~Camellia Saga~",
+    "length": "2:52",
+    "bpm": "258",
+    "single": true,
+    "release": {
+        "year": 2024,
+        "month": 10,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/enumaelis.jpg"
+        },
+        {
+            "name": "CTCD-023",
+            "url": "cdn://images/camellia/albums/CTCD-023.jpg"
+        }
+    ],
+    "albums": [
+        "rex"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ & Gram"
+        },
+        {
+            "role": "Illustration",
+            "name": "そちら(Sochira)"
+        },
+        {
+            "role": "Jacket/CD Design",
+            "name": "Shota Kajimura"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/2iNVYpWvsRjpuR4b7kDKgX?si=08dfc426fcb8446b"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=g0_cLGZlV1Y"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/track/en-ma-eli-camellia-saga-from-the-album-rex"
+        },
+        {
+            "label": "Gram's TANO*C page",
+            "url": "https://www.tano-c.net/artist/gram/"
+        },
+        {
+            "label": "そちら(Sochira)'s fanme.link",
+            "url": "https://fanme.link/@Sochioo"
+        },
+        {
+            "label": "Shota Kajimura's X account",
+            "url": "https://x.com/stkjmr"
+        }
+    ]
+}

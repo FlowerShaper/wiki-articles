@@ -1,0 +1,35 @@
+{
+    "title": "+ERABY+E CONNEC+10N",
+    "length": "5:11",
+    "bpm": "230",
+    "release": {
+        "year": 2020,
+        "month": 9,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "CTCD-020",
+            "url": "cdn://images/camellia/albums/CTCD-020.png"
+        }
+    ],
+    "albums": [
+        "teraio"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/4sjfACDJGLhTWJohCuoXR8"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=dnDHpbyqXik"
+        }
+    ]
+}

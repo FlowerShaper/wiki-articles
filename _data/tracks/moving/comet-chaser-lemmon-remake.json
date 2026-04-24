@@ -1,0 +1,39 @@
+{
+    "title": "comet-chaser (lemmon*remake)",
+    "length": "4:33",
+    "bpm": "",
+    "release": {
+        "year": 2025,
+        "month": 10,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "KCCD-008",
+            "url": "cdn://images/camellia/albums/KCCD-008.jpg"
+        }
+    ],
+    "albums": [
+        "moving"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/5TQ4I05kwYC25IqCw9QfgA"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=hs0h_UIa_v4"
+        }
+    ]
+}

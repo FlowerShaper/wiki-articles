@@ -1,11 +1,9 @@
 {
     "title": "U.U.F.O.",
-    "title_romanized": "U.U.F.O.",
-    "content": "*U.U.F.O.* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2021-07-11 by the circle [かめるかめりあ](#).",
     "covers": [
         {
             "name": "CTCD-021-022",
-            "url": "https://cdn.camellia.wiki/images/camellia/albums/CTCD-021-022.jpg"
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
         }
     ],
     "release": {
@@ -90,6 +88,18 @@
         {
             "label": "Website",
             "url": "https://cametek.jp/uufo/"
+        },
+        {
+            "label": "YouTube premiere",
+            "url": "https://www.youtube.com/watch?v=uAIlcHPn5Qc&list=RDuAIlcHPn5Qc"
+        },
+        {
+            "label": "Youtube playlist",
+            "url": "https://youtube.com/playlist?list=PLaN19gIKi5ZrnOIl7YrLgoDogYCaiy903&si=gjKbDNUkaYDPkNWi"
+        },
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/album/1164QDi9CiftjLg0ecvooW"
         },
         {
             "label": "Bandcamp",

@@ -1,0 +1,44 @@
+{
+    "title": "Parallel Universe Shifter",
+    "length": "7:09",
+    "bpm": "100-440",
+    "single": true,
+    "release": {
+        "year": 2023,
+        "month": 9,
+        "day": 17
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/parallel-universe-shifter.png"
+        },
+        {
+            "name": "CTCD-023",
+            "url": "cdn://images/camellia/albums/CTCD-023.jpg"
+        }
+    ],
+    "albums": [
+        "rex"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/6eLBIXL4GZ5pCFVPNy6pYU"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=BZy_c83SQck"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/track/parallel-universe-shifter"
+        }
+    ]
+}

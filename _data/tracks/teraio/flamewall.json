@@ -1,0 +1,35 @@
+{
+    "title": "Flamewall",
+    "length": "6:50",
+    "bpm": "185-300",
+    "release": {
+        "year": 2020,
+        "month": 9,
+        "day": 27
+    },
+    "covers": [
+        {
+            "name": "CTCD-020",
+            "url": "cdn://images/camellia/albums/CTCD-020.png"
+        }
+    ],
+    "albums": [
+        "teraio"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/04Q6BGr8XdDJ7oDZ4iCI9G"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=aYKN5_b7yVo"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "title": "MEGA TSKR",
+    "length": "2:49",
+    "bpm": "",
+    "single": true,
+    "release": {
+        "year": 2025,
+        "month": 7,
+        "day": 19
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/mega-tskr.jpg"
+        },
+        {
+            "name": "KCCD-008",
+            "url": "cdn://images/camellia/albums/KCCD-008.jpg"
+        }
+    ],
+    "albums": [
+        "moving"
+    ],
+    "credits": [        
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        },
+        {
+            "role": "Illustration",
+            "name": "まみむ"
+        },
+        {
+            "role": "MV Animation",
+            "name": "また夜に。 (しおん & てんびん (sionsakana & Tembin))"
+        },
+        {
+            "role": "MV Production",
+            "name": "そのかわ まみ (Mami Sonokawa)"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/6zlUzPANd8PrH1afehY18j"
+        },
+        {
+            "label": "Spotify (Moving!)",
+            "url": "https://open.spotify.com/track/1scQkZnSOPnc6WJGcL0lHv"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=ODshOf0l-aY"
+        },
+        {
+            "label": "YouTube (Moving!)",
+            "url": "https://www.youtube.com/watch?v=3C0JqIEIf5w"
+        },
+        {
+            "label": "MV Animator しおん's X account",
+            "url": "https://x.com/sionsakana"
+        },
+        {
+            "label": "MV Animator てんびん's X account",
+            "url": "https://x.com/Tembin_3"
+        },
+        {
+            "label": "MV Animator Team's portfolio",
+            "url": "https://matayoruni.myportfolio.com/"
+        },
+        {
+            "label": "MV Producer まみ's X account",
+            "url": "https://x.com/mamitopic"
+        },
+        {
+            "label": "MV Producer まみ's portfolio",
+            "url": "https://mamitopic.myportfolio.com/"
+        }
+    ]
+}

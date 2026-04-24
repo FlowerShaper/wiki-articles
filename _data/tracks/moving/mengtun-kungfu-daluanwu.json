@@ -1,0 +1,60 @@
+{
+    "title": "萌豚♡功夫♡大乱舞",
+    "title_romanized": "Moebuta Kunfu Dairanto",
+    "length": "2:39",
+    "bpm": "144",
+    "release": {
+        "year": 2022,
+        "month": 4,
+        "day": 28
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/mengtun-kungfu-daluanwu.jpg"
+        },
+        {
+            "name": "CHUNITHM Collection",
+            "url": "cdn://images/camellia/singles/chunithmcoll3.jpg"
+        },
+        {
+            "name": "KCCD-008",
+            "url": "cdn://images/camellia/albums/KCCD-008.jpg"
+        }
+    ],
+    "albums": [
+        "moving"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        },
+        {
+            "role": "Illustration",
+            "name": "みずは"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/21t3qWxJS9SUcxVzPhqcSh"
+        },
+        {
+            "label": "Spotify (CHUNITHM Collection)",
+            "url": "https://open.spotify.com/track/0bASgpUGjNPzJpodnZRFdH"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=b05Xtv_ZPFc"
+        },
+        {
+            "label": "CHUNITHM",
+            "url": "https://chunithm.sega.jp"
+        }
+    ]
+}

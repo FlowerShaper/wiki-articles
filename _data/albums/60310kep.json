@@ -5,7 +5,7 @@
     "covers": [
         {
             "name": "60+3+10k E.P.",
-            "url": "cdn://images/camellia/albums/60+3+10kEP.jpg"
+            "url": "cdn://images/camellia/albums/60+3+10kEP.png"
         }
     ],
     "release": {
@@ -21,7 +21,7 @@
                 "we-are-not-curzed",
                 "newspapers-for-magicians"
             ]
-        },
+        }
     ],
     "credits": [
         {

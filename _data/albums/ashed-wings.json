@@ -1,15 +1,15 @@
 {
     "title": "灰の羽搏",
-    "title_romanized": "Ashed Wings",
+    "title_romanized": "Hai no Habataki/Ashed Wings",
     "content": "*灰の羽搏* is a major album by [かめりあ](/camellia) (Camellia) released on 2023-02-15 on the label [PONY CANYON](#). It is the fourth major album by *Camellia*. There is both a regular and limited edition version of the CD. The limited edtion extras are a second disc with 5 exclusive tracks and an acrylic stand figure of *Camellia*.",
     "covers": [
         {
             "name": "PCCA-06182",
-            "url": "#"
+            "url": "cdn://images/camellia/albums/PCCA-06182.jpg"
         },
         {
             "name": "BRCA-00138",
-            "url": "#"
+            "url": "cdn://images/camellia/albums/BRCA-00138.jpg"
         }
     ],
     "release": {

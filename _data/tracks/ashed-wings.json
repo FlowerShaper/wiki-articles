@@ -1,0 +1,65 @@
+{
+    "title": "灰の羽搏",
+    "title_romanized": "Hai no Habataki/Ashed Wings",
+    "length": "4:44",
+    "bpm": "160",
+    "single": true,
+    "release": {
+        "year": 2022,
+        "month": 12,
+        "day": 21
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/ashed-wings.jpg"
+        },
+        {
+            "name": "PCCA-06182",
+            "url": "cdn://images/camellia/albums/PCCA-06182.jpg"
+        },
+        {
+            "name": "BRCA-00138",
+            "url": "cdn://images/camellia/albums/BRCA-00138.jpg"
+        }
+    ],
+    "albums": [
+        "ashed-wings"
+    ],
+    "credits": [
+        {
+            "role": "Composition & Vocals",
+            "name": "かめりあ"
+        },
+        {
+            "role": "MV Animation",
+            "name": "あるし (Arc)"
+        },
+        {
+            "role": "Illustration",
+            "name": "江川あきら (Egawa Akira)"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/1n8RaTpMjz9cCyZoHYX8KP"
+        },
+        {
+            "label": "Spotify (Album)",
+            "url": "https://open.spotify.com/album/5DN2d2oEftpU0i4knuKsX0"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=OU7YFePj3jM"
+        },
+        {
+            "label": "MV Animator Arc's X account",
+            "url": "https://x.com/Arcre8"
+        },
+        {
+            "label": "Illustrator Egawa's X account",
+            "url": "https://x.com/rev_akira/status/1606237326505496576"
+        }
+    ]
+}

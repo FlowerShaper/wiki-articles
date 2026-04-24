@@ -1,0 +1,1 @@
+It retains 201bpm for most of the song then dips to 140bpm for the middle drop.

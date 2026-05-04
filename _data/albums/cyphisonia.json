@@ -1,7 +1,7 @@
 {
     "title": "Cyphisonia E.P.",
-    "title_romanized": "Cyphsonia E.P.",
-    "content": "*Cyphsonia E.P.* is a doujin EP by [かめりあ](/camellia) (Camellia) released on 2016-10-30 (M3-38) by the circle [かめるかめりあ](#). By solving ciphers hidden within the 6 tracks, two more tracks can be downloaded.",
+    "title_romanized": "Cyphisonia E.P.",
+    "content": "*Cyphisonia E.P.* is a doujin EP by [かめりあ](/camellia) (Camellia) released on 2016-10-30 (M3-38) by the circle [かめるかめりあ](#). By solving ciphers hidden within the 6 tracks, two more tracks can be downloaded.",
     "covers": [
         {
             "name": "CTCD-014",
@@ -22,7 +22,12 @@
                 "key-of-timepieces",
                 "maze-of-vignere-square",
                 "ghost",
-                "dans-la-mer-de-son",
+                "dans-la-mer-de-son"
+            ]
+        },
+        {
+            "name": "Secret Tracks",
+            "tracks": [
                 "the-lost-place-in-the-new-world",
                 "literal-crystal-in-the-cyphisonia"
             ]

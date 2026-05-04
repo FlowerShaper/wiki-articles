@@ -1,0 +1,35 @@
+{
+    "title": "Kisaragi",
+    "length": "5:58",
+    "bpm": "230",
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "covers": [
+        {
+            "name": "CTCD-021-022",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/2Ohyx4AtWjNXj5rQFjvocg"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=cMU09nKvOTI"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "AREA 52",
+    "length": "4:41",
+    "bpm": "180",
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "covers": [
+        {
+            "name": "CTCD-021-022",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition & Vocals",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/4JkrByEpwRQuADzQfHu1B1"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=eddOqINRByw"
+        }
+    ]
+}

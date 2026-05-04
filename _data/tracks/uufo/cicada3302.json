@@ -1,0 +1,35 @@
+{
+    "title": "CICADA3302",
+    "length": "7:19",
+    "bpm": "155",
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "covers": [
+        {
+            "name": "CTCD-021-022",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/7bp6ujKKAl1tOC8d2WoVQs"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=pe7rcCuf7YI"
+        }
+    ]
+}

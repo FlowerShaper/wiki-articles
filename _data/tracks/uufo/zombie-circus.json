@@ -1,0 +1,39 @@
+{
+    "title": "ゾンビー・サーカス (ZOMBIE CIRCUS)",
+    "length": "4:07",
+    "bpm": "150",
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "covers": [
+        {
+            "name": "CTCD-021-022",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "初音ミク"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/4BInW1fXQrSYXnul5Kpk5d"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=GMrPyKkBtK0"
+        }
+    ]
+}

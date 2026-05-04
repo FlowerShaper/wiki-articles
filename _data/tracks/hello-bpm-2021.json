@@ -1,0 +1,52 @@
+{
+    "title": "Hello (BPM) 2021",
+    "length": "2:21",
+    "bpm": "2021",
+    "single": true,
+    "release": {
+        "year": 2021,
+        "month": 1,
+        "day": 4
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/hello-bpm-2021.jpg"
+        },
+        {
+            "name": "CTCD-021-22",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Title",
+            "name": "DJ Genki"
+        },
+        {
+            "role": "Extra Help",
+            "name": "Kobaryo"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify (U.U.F.O.)",
+            "url": "https://open.spotify.com/track/5Xte4lpLyoNRI933yWRGw7"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=FXPhdUMezSs"
+        },
+        {
+            "label": "YouTube (U.U.F.O.)",
+            "url": "https://www.youtube.com/watch?v=OBzwOmIxKaQ"
+        }
+    ]
+}

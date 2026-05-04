@@ -1,0 +1,35 @@
+{
+    "title": "Жужжалка76",
+    "length": "4:37",
+    "bpm": "176",
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "covers": [
+        {
+            "name": "CTCD-021-022",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/1alIu7xTLg5lUB1CObSyhq"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=30R9b1fRe-Q"
+        }
+    ]
+}

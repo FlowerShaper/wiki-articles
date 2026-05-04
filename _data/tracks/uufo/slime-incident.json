@@ -1,0 +1,39 @@
+{
+    "title": "SLIME INCIDENT",
+    "length": "5:08",
+    "bpm": "155",
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "covers": [
+        {
+            "name": "CTCD-021-022",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Title & Sampled Voice",
+            "name": "Nyatasha Nyanners"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/6cOiVnci4HDJNHvgSei1I4"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=mhEJljULizY"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "t/a/n/a/s/i/n/n",
+    "length": "3:27",
+    "bpm": "521",
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "covers": [
+        {
+            "name": "CTCD-021-022",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/0Bu0xzj6Y3DP4sr0t53x2C"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=TvxIvREPgZA"
+        }
+    ]
+}

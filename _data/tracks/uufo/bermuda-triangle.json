@@ -1,0 +1,39 @@
+{
+    "title": "Bermuda Δ Triangle (feat. The8BitDrummer)",
+    "length": "4:03",
+    "bpm": "174-132",
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "covers": [
+        {
+            "name": "CTCD-021-022",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Drums",
+            "name": "The8BitDrummer"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/658IaKIiFzUZRfPs2qCKFs"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=Ah73TCrIehg"
+        }
+    ]
+}

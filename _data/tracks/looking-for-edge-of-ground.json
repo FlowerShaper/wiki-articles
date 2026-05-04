@@ -1,0 +1,52 @@
+{
+    "title": "大地の閾を探して [Looking for Edge of Ground]",
+    "length": "8:28",
+    "bpm": "174",
+    "single": true,
+    "release": {
+        "year": 2020,
+        "month": 5,
+        "day": 9
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/looking-for-edge-of-ground.jpg"
+        },
+        {
+            "name": "CTCD-021-22",
+            "url": "cdn://images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "初音ミク"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/album/7pbRfgY7q21LPtCDxuAh4T"
+        },
+        {
+            "label": "Spotify (U.U.F.O.)",
+            "url": "https://open.spotify.com/track/7t5pVicXJGDnsNxzxw4LTY"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=QDadz5JZCw8"
+        },
+        {
+            "label": "YouTube (U.U.F.O.)",
+            "url": "https://www.youtube.com/watch?v=oyJf72je2U0"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Heart of Android: Even If It's Only By Mechanism",
+    "length": "4:21",
+    "bpm": "110",
+    "release": {
+        "year": 2018,
+        "month": 12,
+        "day": 30
+    },
+    "covers": [
+        {
+            "name": "CTCD-018",
+            "url": "cdn://images/camellia/albums/CTCD-018.jpg"
+        }
+    ],
+    "albums": [
+        "heart-of-android"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/2gsYdFcQZaC3WpMbY4zk3N"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=v84qm96iiVY"
+        }
+    ]
+}

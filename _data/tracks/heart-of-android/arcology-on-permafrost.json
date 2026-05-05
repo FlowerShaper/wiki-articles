@@ -1,0 +1,35 @@
+{
+    "title": "Arcology On Permafrost",
+    "length": "4:36",
+    "bpm": "136",
+    "release": {
+        "year": 2018,
+        "month": 12,
+        "day": 30
+    },
+    "covers": [
+        {
+            "name": "CTCD-018",
+            "url": "cdn://images/camellia/albums/CTCD-018.jpg"
+        }
+    ],
+    "albums": [
+        "heart-of-android"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/7vAmjqz8qaCuAYm8vAuEEl"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=0dvd6f_IIV0"
+        }
+    ]
+}

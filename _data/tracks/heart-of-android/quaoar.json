@@ -1,0 +1,43 @@
+{
+    "title": "Quaoar (For \"Thanks Follower 50k\")",
+    "length": "4:50",
+    "bpm": "174",
+    "release": {
+        "year": 2018,
+        "month": 7,
+        "day": 7
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/quaoar.jpg"
+        },
+        {
+            "name": "CTCD-018",
+            "url": "cdn://images/camellia/albums/CTCD-018.jpg"
+        }
+    ],
+    "albums": [
+        "heart-of-android"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify (heart of android)",
+            "url": "https://open.spotify.com/track/0oO7VhBZdoKQuQClYwOmtu"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=yjQmZBvi3WE"
+        },
+        {
+            "label": "YouTube (heart of android)",
+            "url": "https://www.youtube.com/watch?v=Oks_fiRU_Yw"
+        }
+    ]
+}

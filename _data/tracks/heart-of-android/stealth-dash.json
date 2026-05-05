@@ -1,0 +1,36 @@
+{
+    "title": "Σtealth-Δash",
+    "title_romanised": "Stealth-Dash",
+    "length": "5:40",
+    "bpm": "174",
+    "release": {
+        "year": 2018,
+        "month": 12,
+        "day": 30
+    },
+    "covers": [
+        {
+            "name": "CTCD-018",
+            "url": "cdn://images/camellia/albums/CTCD-018.jpg"
+        }
+    ],
+    "albums": [
+        "heart-of-android"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/60SLXqoXrmQMRXC9krGlzc"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=vts6V2UhB7w"
+        }
+    ]
+}

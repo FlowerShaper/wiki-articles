@@ -1,0 +1,35 @@
+{
+    "title": "[ns]",
+    "length": "4:49",
+    "bpm": "266",
+    "release": {
+        "year": 2018,
+        "month": 12,
+        "day": 30
+    },
+    "covers": [
+        {
+            "name": "CTCD-018",
+            "url": "cdn://images/camellia/albums/CTCD-018.jpg"
+        }
+    ],
+    "albums": [
+        "heart-of-android"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/3RJzrw490F6J3bMW5x2ZUw"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=VFJSz81QmX4"
+        }
+    ]
+}

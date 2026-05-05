@@ -1,0 +1,35 @@
+{
+    "title": "Tojita Sekai",
+    "length": "6:59",
+    "bpm": "205",
+    "release": {
+        "year": 2018,
+        "month": 12,
+        "day": 30
+    },
+    "covers": [
+        {
+            "name": "CTCD-018",
+            "url": "cdn://images/camellia/albums/CTCD-018.jpg"
+        }
+    ],
+    "albums": [
+        "heart-of-android"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/7GSuJUd7FGlT0E5jbrd2Mr"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=iq90nHs3Gbs"
+        }
+    ]
+}

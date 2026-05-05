@@ -1,0 +1,35 @@
+{
+    "title": "This Future (we didn't expect)",
+    "length": "4:21",
+    "bpm": "180",
+    "release": {
+        "year": 2018,
+        "month": 12,
+        "day": 30
+    },
+    "covers": [
+        {
+            "name": "CTCD-018",
+            "url": "cdn://images/camellia/albums/CTCD-018.jpg"
+        }
+    ],
+    "albums": [
+        "heart-of-android"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/7wSmFJYz8qot1NTqNMYJKK"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=051Oy0lu5Mo"
+        }
+    ]
+}

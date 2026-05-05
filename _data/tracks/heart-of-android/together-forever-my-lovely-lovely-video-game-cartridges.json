@@ -1,0 +1,35 @@
+{
+    "title": "Together forever, my lovely lovely video game cartridges",
+    "length": "5:24",
+    "bpm": "128",
+    "release": {
+        "year": 2018,
+        "month": 12,
+        "day": 30
+    },
+    "covers": [
+        {
+            "name": "CTCD-018",
+            "url": "cdn://images/camellia/albums/CTCD-018.jpg"
+        }
+    ],
+    "albums": [
+        "heart-of-android"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/7zYdU102BzR5xlKPexEtos"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=9xeZRQDKmLE"
+        }
+    ]
+}

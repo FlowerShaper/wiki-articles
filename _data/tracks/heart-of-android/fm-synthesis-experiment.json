@@ -1,0 +1,35 @@
+{
+    "title": "FM Synthesis Experiment",
+    "length": "5:43",
+    "bpm": "150",
+    "release": {
+        "year": 2018,
+        "month": 12,
+        "day": 30
+    },
+    "covers": [
+        {
+            "name": "CTCD-018",
+            "url": "cdn://images/camellia/albums/CTCD-018.jpg"
+        }
+    ],
+    "albums": [
+        "heart-of-android"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/5fs2pbhMmKNeJpX9TfbsLC"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=Zowikp-AttM"
+        }
+    ]
+}

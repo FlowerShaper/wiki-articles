@@ -1,0 +1,39 @@
+{
+    "title": "Kikai no Tsubasa (feat. Kasane Teto)",
+    "length": "8:30",
+    "bpm": "200",
+    "release": {
+        "year": 2025,
+        "month": 8,
+        "day": 11
+    },
+    "covers": [
+        {
+            "name": "CTCD-024",
+            "url": "cdn://images/camellia/albums/CTCD-024.png"
+        }
+    ],
+    "albums": [
+        "chimera-dragons"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "重音テト"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/7uxKM0QlsKAhvkUuKKOB1e"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=vfkC_FaTJiA"
+        }
+    ]
+}

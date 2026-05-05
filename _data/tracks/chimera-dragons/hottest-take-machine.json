@@ -1,0 +1,47 @@
+{
+    "title": "Hottest Take Machine",
+    "length": "3:43",
+    "bpm": "210",
+    "release": {
+        "year": 2025,
+        "month": 8,
+        "day": 2
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/hottest-take-machine.png"
+        },
+        {
+            "name": "CTCD-024",
+            "url": "cdn://images/camellia/albums/CTCD-024.png"
+        }
+    ],
+    "albums": [
+        "chimera-dragons"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Sampled Voice",
+            "name": "Camellia Discord Server members"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/0QCBDW7SG6mgZWVbFdX24g"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=77VoSTytvtw"
+        },
+        {
+            "label": "The Machine",
+            "url": "cametek.jp/hottest"
+        }
+    ]
+}

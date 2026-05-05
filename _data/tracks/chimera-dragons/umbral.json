@@ -1,0 +1,47 @@
+{
+    "title": "UmbЯal",
+    "length": "4:49",
+    "bpm": "310",
+    "release": {
+        "year": 2025,
+        "month": 8,
+        "day": 13
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/umbral.png"
+        },
+        {
+            "name": "CTCD-024",
+            "url": "cdn://images/camellia/albums/CTCD-024.png"
+        }
+    ],
+    "albums": [
+        "chimera-dragons"
+    ],
+    "credits": [
+        {
+            "role": "Composition & Vocals",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Single Cover",
+            "name": "Kimidori"
+        },
+        {
+            "role": "Inspiration",
+            "name": "Яagia B.W."
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/33esAK8WdVrXTujfaBAkvg"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=LhmbqUmq4tc"
+        }
+    ]
+}

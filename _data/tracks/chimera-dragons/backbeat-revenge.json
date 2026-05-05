@@ -1,0 +1,35 @@
+{
+    "title": "Backbeat Revenge",
+    "length": "3:40",
+    "bpm": "155",
+    "release": {
+        "year": 2025,
+        "month": 8,
+        "day": 5
+    },
+    "covers": [
+        {
+            "name": "CTCD-024",
+            "url": "cdn://images/camellia/albums/CTCD-024.png"
+        }
+    ],
+    "albums": [
+        "chimera-dragons"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/5rA2s7YY44XkWkPtw5g2Za"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=ZYlloHl6a0M"
+        }
+    ]
+}

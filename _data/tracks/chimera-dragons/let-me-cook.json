@@ -1,0 +1,35 @@
+{
+    "title": "LET ME COOK",
+    "length": "3:49",
+    "bpm": "180",
+    "release": {
+        "year": 2025,
+        "month": 8,
+        "day": 17
+    },
+    "covers": [
+        {
+            "name": "CTCD-024",
+            "url": "cdn://images/camellia/albums/CTCD-024.png"
+        }
+    ],
+    "albums": [
+        "chimera-dragons"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/0sdwehSVeRwjrE7wvTt4ao"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=Hd8_tD_kaTA"
+        }
+    ]
+}

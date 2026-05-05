@@ -1,0 +1,39 @@
+{
+    "title": "__XYBERR//DRACOO__",
+    "length": "3:24",
+    "bpm": "160",
+    "release": {
+        "year": 2025,
+        "month": 8,
+        "day": 17
+    },
+    "covers": [
+        {
+            "name": "CTCD-024",
+            "url": "cdn://images/camellia/albums/CTCD-024.png"
+        }
+    ],
+    "albums": [
+        "chimera-dragons"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Sampled Voice",
+            "name": "Ribachi"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/0TNsmT75XxzEaF1lUkX0zZ"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=FC4QSPueJKM"
+        }
+    ]
+}

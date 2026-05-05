@@ -1,0 +1,43 @@
+{
+    "title": "BITE ME MORE PLS",
+    "length": "3:56",
+    "bpm": "174",
+    "release": {
+        "year": 2025,
+        "month": 8,
+        "day": 9
+    },
+    "covers": [
+        {
+            "name": "Single",
+            "url": "cdn://images/camellia/singles/bite-me-more-pls.png"
+        },
+        {
+            "name": "CTCD-024",
+            "url": "cdn://images/camellia/albums/CTCD-024.png"
+        }
+    ],
+    "albums": [
+        "chimera-dragons"
+    ],
+    "credits": [
+        {
+            "role": "Composition & Vocals",
+            "name": "かめりあ"
+        },
+        {
+            "role": "MV & Single Cover",
+            "name": "Dopi, grunku"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/6G0XriJRNB2Ea1wKcBbvWh"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=5DPtClNqOEQ"
+        }
+    ]
+}

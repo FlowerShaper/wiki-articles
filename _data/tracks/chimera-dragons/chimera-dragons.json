@@ -1,0 +1,35 @@
+{
+    "title": "Chimera Dragons",
+    "length": "4:52",
+    "bpm": "300",
+    "release": {
+        "year": 2025,
+        "month": 8,
+        "day": 17
+    },
+    "covers": [
+        {
+            "name": "CTCD-024",
+            "url": "cdn://images/camellia/albums/CTCD-024.png"
+        }
+    ],
+    "albums": [
+        "chimera-dragons"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/5KugMndVl61PQZxpG0Utcl"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=pauUjRAhqNs"
+        }
+    ]
+}

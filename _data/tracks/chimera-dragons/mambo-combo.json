@@ -10,7 +10,7 @@
     "covers": [
         {
             "name": "CTCD-024",
-            "url": "cdn://images/camellia/albums/CTCD-024.png"
+            "url": "cdn://images/camellia/albums/CTCD-024.jpg"
         }
     ],
     "albums": [
@@ -25,7 +25,7 @@
     "links": [
         {
             "label": "Spotify",
-            "url": "https://open.spotify.com/track/5zlDnNBXnCfE2w1MQVPJwT"
+            "url": ""
         },
         {
             "label": "YouTube",

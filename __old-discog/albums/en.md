@@ -10,8 +10,8 @@ description: Here, you will find various songs Camellia has composed or
 
 ## Welcome to Camellia's Discography
 
+> [!NOTE]
 > This page is constantly being updated. If you see anything missing, help us out by adding more links and pages!
-{: .disclaimer }
 
 Here, you will find various songs Camellia has composed or contributed to. If you see anything missing, help us out by adding more links and pages!
 

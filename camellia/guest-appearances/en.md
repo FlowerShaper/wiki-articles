@@ -4,8 +4,8 @@ title: Guest Appearances
 date: 2024-02-06T22:23:15.509Z
 ---
 
+> [!NOTE]
 > For Contributors: Should be rewritten to include other artists songs, but also guests in camellia's songs.
-{: .caution }
 
 ## Camellia's Guest Appearances
 

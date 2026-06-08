@@ -5,8 +5,8 @@ date: 2023-11-14 23:55 -0600
 description: The monthly newsletter for the Camellia Discord Server, featuring news, releases, and events.
 ---
 
+> [!NOTE]
 > For Contributors: Missing more than a year of posts.
-{: .caution }
 
 ## February 2024
 

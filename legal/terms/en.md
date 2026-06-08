@@ -7,8 +7,8 @@ description: The document that outlines the terms that govern the use of our ser
 
 ## Terms of Service
 
+> [!NOTE]
 > The Terms of Service were last updated on January 27th, 2024.
-{: .tip }
 
 Welcome to the Camellia Wiki! This document outlines the terms that govern your use of flowertek and the Camellia Wiki Comments (hereinafter "our services").
 
@@ -40,8 +40,8 @@ We reserve the right to terminate or suspend your access to our services at any 
 
 We reserve the right to modify or replace these Terms of Service at any time. It is your responsibility to review these terms periodically for changes. By continuing to access or use our services after any revisions become effective, you agree to be bound by the revised terms.
 
+> [!TIP]
 > To view updates easier, view the [#💻dev-discussion](https://discord.com/channels/435720333786480641/1174624963584610334) channel in the Discord!
-{: .tip }
 
 ### 8. Contact Us
 

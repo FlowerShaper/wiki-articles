@@ -1,0 +1,52 @@
+{
+    "title": "マヨナカヒコウ",
+    "title_romanized": "Insomnia C(o)urse",
+    "content": "*マヨナカヒコウ* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2026-05-30 by the circle [かめるかめりあ](#). It is the sixth Vocaloid album by *Camellia*.",
+    "covers": [
+        {
+            "name": "CTCD-025",
+            "url": "cdn://images/camellia/albums/CTCD-025.png"
+        }
+    ],
+    "release": {
+        "year": 2026,
+        "month": 5,
+        "day": 30
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "fly-to-night-tonight",
+                "nowhere-elevator",
+                "play-with-fire",
+                "mass-of-the-heart",
+                "future-respawning-button",
+                "meteor-shower",
+                "stardust-roller-coaster",
+                "comet-train",
+                "alibi",
+                "venomous-snake",
+                "crazy-reiji-play-crazy",
+                "denkoh-sekka",
+                "birthright-syndrome"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Illustration",
+            "name": "Temmie"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/InsomniaCourse/"
+        }
+    ]
+}

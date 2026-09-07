@@ -1,0 +1,13 @@
+{
+  "name": "Ui-chan",
+  "images": [
+    {
+      "src": "cdn://images/camellia/singles/thule.jpg",
+      "alt": "ÞULE Album Cover"
+    },
+    {
+      "src": "cdn://images/characters/ui/sheet.png",
+      "alt": "Character Sheet"
+    }
+  ]
+}

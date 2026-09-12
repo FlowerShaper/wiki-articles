@@ -1,0 +1,17 @@
+{
+  "name": "Agatei",
+  "images": [
+    {
+      "src": "cdn://images/camellia/singles/musical-automaton.jpg",
+      "alt": "Album Cover"
+    },
+    {
+      "src": "cdn://images/characters/agatei/cover-full.jpg",
+      "alt": "Full Cover Art"
+    },
+    {
+      "src": "cdn://images/characters/agatei/sheet.png",
+      "alt": "Character Sheet"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "MEGANTO METEOR",
+    "length": "4:58",
+    "bpm": "185",
+    "release": {
+        "year": 2016,
+        "month": 7,
+        "day": 6
+    },
+    "covers": [
+        {
+            "name": "QWCE-90001",
+            "url": "cdn://images/camellia/albums/QWCE-90001.png"
+        }
+    ],
+    "albums": [
+        "meganto-meteor"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/0ZwiYmoHYn1TCGfdoPltn2"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/watch?v=v31biX0VxOU"
+        }
+    ]
+}

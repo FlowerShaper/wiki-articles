@@ -1,0 +1,30 @@
+title: paroxysm
+title_romanized: paroxysm
+covers:
+  - name: CTCD-007
+    url: cdn://images/camellia/albums/CTCD-007.jpg
+release:
+  year: 2013
+  month: 12
+  day: 31
+discs:
+  - name: Disc 1
+    tracks:
+      - ring
+      - nuclear-drive
+      - e
+      - mithril
+      - fastest-crash
+      - paroxysm
+      - bug-collection
+      - include
+credits:
+  - role: Composition
+    name: かめりあ
+  - role: Design
+    name: "Why#"
+links:
+  - label: Website
+    url: https://cametek.jp/paroxysm/
+  - label: Bandcamp
+    url: https://cametek.bandcamp.com/album/paroxysm

@@ -1,0 +1,1 @@
+_LOP STEP RABBITS!_ is a doujin mini-album by [かめりあ](/camellia) (Camellia) feat. [ななひら](#) (Nanahira) released on 2014-12-30 (Comiket 87) by the circles [かめるかめりあ](#) & [Confetto](#). It is the fifth collaboration album between _Camellia_ and _Nanahira_.

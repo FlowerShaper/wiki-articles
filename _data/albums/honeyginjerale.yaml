@@ -1,0 +1,31 @@
+title: ハニージンジャーエール
+title_romanized: honeyginjerale
+covers:
+  - name: CTCD-001
+    url: cdn://images/camellia/albums/CTCD-001.png
+release:
+  year: 2010
+  month: 10
+  day: 31
+discs:
+  - name: Disc 1
+    tracks:
+      - samishigaryanoyume
+      - miminari-wav
+      - lifegame
+      - sinking-extended
+      - miku-as-the-virus-debugged
+      - kyokumei-boshuuchuu
+      - feelsuppression
+      - flowerless-world
+      - miningness-world
+credits:
+  - role: Composition
+    name: かめりあ
+  - role: Lyrics
+    name: 山鳥 文 (Tr.01)
+  - role: Illustation
+    name: きぃ
+links:
+  - label: Website
+    url: http://camtek.seesaa.net/article/164523140.html

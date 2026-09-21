@@ -1,7 +1,9 @@
 FULLFLAVOR ONDO initially released as a single by [かめりあ](/camellia) feat. [ななひら](#) and was later included on their album Moving!.
 
 ## Lyrics
+
 ### (EN):
+
 ```
 Hey everyone at the festival site! Everyone’s favorite, FULLFLAVOR ONDO is about to begin!
 Gather around the taiko stage with everything you can find!
@@ -92,6 +94,7 @@ Hai! (Cheers!) Soryasa (Soryasa!) FULLFLAVOR ONDO to be TASTE INFINITE
 ```
 
 ### (JP, original):
+
 ```
 祭り会場のみなさ～ん！！みんなの大好きFULLFLAVOR音頭が始まるよ！
 ありとあらゆる全てを持ってやぐらの周りに集まって～！
@@ -118,7 +121,7 @@ Dopeな（Dopeな！）音頭で（音頭で！）  ジャンルを飛び越え 
 （それそれそれそれ～！）
 （HAH WASSHOI WASSHOI）
 
-踊れ 音のヤミ鍋 
+踊れ 音のヤミ鍋
 うかれ今宵はAからZまで 召し上がれ （めしあがれ はい！！）
 
 〽サァ 犬が西向きゃ尾は プッチョーハンズインジエア🙌（ハンズインジエア🙌）
@@ -159,7 +162,7 @@ Dopeな（Dopeな！）音頭で（音頭で！）  ジャンルを飛び越え 
 （それそれそれそれ～！）
 （HAH WASSHOI WASSHOI）
 
-ヤベ〜  ついていけね〜 
+ヤベ〜  ついていけね〜
 スゲ〜  フルな速度 情報量 変えまくれ （かえまくれ はい！！）
 流し込め （いぇーい！！！）
 

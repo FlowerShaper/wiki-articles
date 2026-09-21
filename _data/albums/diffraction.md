@@ -1,0 +1,1 @@
+_[diffraction]_ is a doujin album by [かめりあ](/camellia) (Camellia) released on 2014-04-27 (M3-33) by the circle [かめるかめりあ](#). It is the second intrumental album by Camellia. On 2019-12-31 the CD was re-released as part of the _Camellia Archives_ series of re-releases.

@@ -1,0 +1,21 @@
+title: 60+3+10k E.P.
+title_romanized: 60+3+10k E.P.
+covers:
+  - name: 60+3+10k E.P.
+    url: cdn://images/camellia/albums/60+3+10kEP.png
+release:
+  year: 2019
+  month: 2
+  day: 20
+discs:
+  - name: Disc 1
+    tracks:
+      - kamah-scythe
+      - we-are-not-curzed
+      - newspapers-for-magicians
+credits:
+  - role: Composition
+    name: かめりあ
+links:
+  - label: Bandcamp
+    url: https://cametek.bandcamp.com/album/60-3-10ke-p

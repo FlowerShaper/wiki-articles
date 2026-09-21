@@ -1,0 +1,1 @@
+_Camellia 'Remixes' Summary & VIPs 02_ is a doujin compilation album by [かめりあ](/camellia) (Camellia) released on 2018-08-10 (Comiket 94) by the circle [かめるかめりあ](#). It is a compilation of Camellia remixes, of both his own songs and other artists.

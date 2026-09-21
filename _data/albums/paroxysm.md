@@ -1,0 +1,1 @@
+_paroxysm_ is a doujin album by [かめりあ](/camellia) (Camellia) released on 2013-12-31 (Comiket 85) by the circle [かめるかめりあ](#). It is the first intrumental album by Camellia. On 2019-12-31 the CD was re-released as part of the Camellia Archives series of re-releases. In the tracklist of the original CD release, the titles of tracks 1 and 2 are incorrectly swapped.

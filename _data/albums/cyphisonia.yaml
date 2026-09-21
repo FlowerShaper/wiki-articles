@@ -1,0 +1,36 @@
+title: Cyphisonia E.P.
+title_romanized: Cyphisonia E.P.
+covers:
+  - name: CTCD-014
+    url: cdn://images/camellia/albums/CTCD-014.jpg
+release:
+  year: 2016
+  month: 10
+  day: 30
+discs:
+  - name: Disc 1
+    tracks:
+      - introduction-relic-in-letters
+      - welcome-to-the-cyphsonia
+      - key-of-timepieces
+      - maze-of-vignere-square
+      - ghost
+      - dans-la-mer-de-son
+  - name: Secret Tracks
+    tracks:
+      - the-lost-place-in-the-new-world
+      - literal-crystal-in-the-cyphisonia
+credits:
+  - role: Composition
+    name: かめりあ
+  - role: Design
+    name: Reku
+links:
+  - label: Website
+    url: https://cametek.jp/cyphisonia/
+  - label: Bandcamp
+    url: https://cametek.bandcamp.com/album/cyphisonia-e-p
+  - label: "Secret Track #1 (YouTube)"
+    url: https://www.youtube.com/watch?v=bORdZbyKPSM
+  - label: "Secret Track #2 (YouTube)"
+    url: https://www.youtube.com/watch?v=R4bs06l46Ew

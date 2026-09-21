@@ -1,0 +1,1 @@
+_Michno-sequence_ is a doujin album by [かめりあ](/camellia) (Camellia) released on 2012-07-08 (THE VOC@LOiD M@STER 21) by the circle [かめるかめりあ](#). It is the fourth Vocaloid album by Camellia. On 2019-12-31 the CD was re-released as part of the Camellia Archives series of re-releases.

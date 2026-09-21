@@ -1,0 +1,24 @@
+title: Dualive
+title_romanized: Dualive
+covers:
+  - name: KRCA-00001
+    url: cdn://images/camellia/albums/KRCA-00001.jpg
+release:
+  year: 2018
+  month: 4
+  day: 24
+discs:
+  - name: Disc 1
+    tracks:
+      - intro
+      - dualive
+      - you-and-me
+      - infinity-rise-remix
+      - brightness-remix
+credits:
+  - role: Composition
+    name: Camellia (Tr.01-03), Ryu* (Tr.04), kors k (Tr.05)
+  - role: Vocals
+    name: kradness
+  - role: Remix
+    name: Camellia (Tr.04-05)

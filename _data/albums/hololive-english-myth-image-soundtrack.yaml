@@ -1,0 +1,20 @@
+title: Hololive English -Myth- Image Soundtrack
+title_romanized: Hololive English -Myth- Image Soundtrack
+covers:
+  - name: CVRD-036
+    url: cdn://images/camellia/albums/CVRD-036.png
+release:
+  year: 2021
+  month: 3
+  day: 14
+discs:
+  - name: Disc 1
+    tracks:
+      - lively-bopping-to-deaths-knocking
+      - krispy-fry-fry-party
+      - kanalumi
+      - sharkventure
+      - misteavous-myth-buster
+credits:
+  - role: Composition & Arrangement
+    name: かめりあ

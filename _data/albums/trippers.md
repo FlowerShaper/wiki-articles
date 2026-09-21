@@ -1,0 +1,1 @@
+_TRIPPERS_ is a doujin album by [かめりあ](/camellia) (Camellia) released on 2011-05-01 (M3-27) by the circle [かめるかめりあ](#). It is the second Vocaloid album by _Camellia_. On 2019-12-31 the CD was re-released as part of the _Camellia Archives_ series of re-releases.

@@ -1,0 +1,35 @@
+title: crystallized
+title_romanized: crystallized
+covers:
+  - name: CTCD-012
+    url: cdn://images/camellia/albums/CTCD-012.jpg
+release:
+  year: 2015
+  month: 12
+  day: 31
+discs:
+  - name: Disc 1
+    tracks:
+      - rain-of-amethyst
+      - artificial-snow
+      - amorphous
+      - first-town-of-this-journey
+      - yesterday
+      - light-it-up
+      - nuclear-star
+      - crystallized
+      - liquated
+credits:
+  - role: Composition
+    name: かめりあ
+  - role: Graphic Design
+    name: Ryo Asakura
+  - role: DTP Design
+    name: Hitomasu Modoru
+  - role: Movie
+    name: murAta Yuzi
+links:
+  - label: Website
+    url: https://cametek.jp/crystallized/
+  - label: Bandcamp
+    url: https://cametek.bandcamp.com/album/crystallized

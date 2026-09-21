@@ -11,7 +11,9 @@ This song stands as the bottom, a destination reached only by those who endure t
 The song is inspired by a semi-mythical island far from the north of Ancient Greece of the same name, [Thule](https://en.wikipedia.org/wiki/Thule), first written about by explorer Pytheas of Massalia (now Marseille, France). It was likely based on some real land he writes he discovered in his now lost work "On The Ocean" though his descriptions survived in the works of later authors that were unconvinced of his stories. Possible lands include Iceland, Norway, the Shetland Islands or the Faroe Islands. It later took on a metaphorical meaning for any distant place "beyond the known world". It is said by a few authors that when the mid-summer comes there are no nights, only daytime, and when the mid-winter there is never any Sun with each period lasting 6 months of only nights or only days.
 
 ## Lyrics
+
 ### (Eng):
+
 ```
 This fairytale; what was it but a broken dream?
 I'll find a place to leave this shattered fairytale to fate
@@ -129,6 +131,7 @@ So long to this world
 ```
 
 ### (JP, original):
+
 ```
 壊れてしまった童話が
 何処かに まだ壊せる場所を探す

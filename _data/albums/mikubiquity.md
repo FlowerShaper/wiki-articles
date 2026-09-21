@@ -1,0 +1,1 @@
+_mikUbiquity_ is a doujin album by [かめりあ](/camellia) (Camellia) released on 2011-10-30 (M3-28) by the circle [かめるかめりあ](#). It is the third Vocaloid album by _Camellia_. On 2019-12-31 the CD was re-released as part of the Camellia Archives series of re-releases.

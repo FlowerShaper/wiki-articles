@@ -1,0 +1,1 @@
+_灰の羽搏_ is a major album by [かめりあ](/camellia) (Camellia) released on 2023-02-15 on the label [PONY CANYON](#). It is the fourth major album by _Camellia_. There is both a regular and limited edition version of the CD. The limited edtion extras are a second disc with 5 exclusive tracks and an acrylic stand figure of _Camellia_.

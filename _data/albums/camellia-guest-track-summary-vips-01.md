@@ -1,0 +1,1 @@
+_Camellia 'Guest Tracks' Summary & VIPs 01_ is a doujin compilation album by [かめりあ](/camellia) (Camellia) released on 2017-04-30 (M3-39) by the circle [かめるかめりあ](#). It is a compilation of Camellia guest tracks, about half of them are new remixes for this release.

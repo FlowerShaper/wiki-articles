@@ -1,0 +1,1 @@
+_sudden shower_ is a doujin album by [かめりあ](/camellia) (Camellia) released on 2014-08-17 (Comiket 86) by the circle [かめるかめりあ](#). It is the third intrumental album by Camellia. On 2019-12-31 the CD was re-released as part of the Camellia Archives series of re-releases.

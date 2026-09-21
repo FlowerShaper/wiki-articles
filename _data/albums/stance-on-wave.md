@@ -1,0 +1,1 @@
+_Stance on Wave_ is a doujin album by [かめりあ](/camellia) (Camellia) released on 2013-08-12 (Comiket 84) by the circle [かめるかめりあ](#). It is the fifth Vocaloid album by _Camellia_. On 2019-12-31 the CD was re-released as part of the _Camellia Archives_ series of re-releases.

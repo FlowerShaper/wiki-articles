@@ -1,0 +1,28 @@
+title: TRIPPERS
+title_romanized: TRIPPERS
+covers:
+  - name: CTCD-002
+    url: cdn://images/camellia/albums/CTCD-002.png
+release:
+  year: 2011
+  month: 5
+  day: 1
+discs:
+  - name: Disc 1
+    tracks:
+      - shouting-wheels
+      - cat-killed-by-overdosing-music
+      - mizu-seidou-ame
+      - monochrome-ride
+      - shiawase-no-aoi-kumo
+      - telephone-teleport
+      - 8-bit-wo-arukeba
+      - route-of-quanta
+      - logout-sane-dream
+      - unconsciousness-world
+credits:
+  - role: Composition
+    name: かめりあ
+links:
+  - label: Website
+    url: https://camtek.seesaa.net/article/192334171.html
